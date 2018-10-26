@@ -23,7 +23,7 @@
 .meatball {
   height: 60px;
   width: 70px;
-  background: #74380d;
+  background: blue ;
   border-radius: 50px;
   display: inline-block;
   vertical-align: top;
@@ -63,5 +63,11 @@
   height: 25px;
   width: 80%;
   background: #656565;
-  border-radius: 20px 20px 200px 200px;
-}
+  border-radius: 20px 20px 200px 200px;}
+
+.ketcup {
+    height: 15px;
+    width: 65%;
+    background: red;
+    border-bottom: solid 2px rgba(0,0,0,.1);
+  }
